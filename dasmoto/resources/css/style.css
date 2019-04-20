@@ -1,0 +1,38 @@
+html {
+    font-family: Helvetica, sans-serif;
+}
+
+div.leader {
+  background-image: url("../images/pattern.jpeg");
+  background-color: darkgrey;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+}
+
+h2.greenBrushesHeader {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: mediumspringgreen;
+}
+
+h2.redFramesHeader {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: lightcoral;
+}
+
+h2.bluePaintHeader {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: skyblue;
+}
+
+span.boldBlueFont {
+  font-weight: bold;
+  color: blue;
+}
